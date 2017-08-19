@@ -3,7 +3,7 @@
 
 
 A simple MERN application for managing a physical books library written in ES 6 Javascript according to [AirBnB Javascript style guidelines](https://github.com/airbnb/javascript) enforced by ES Lint .
-Backend is ```Node.js``` using ```Express``` as server side web framework, ```React.js``` view library for the views rendering, ```[Sequelize](http://docs.sequelizejs.com/)``` as Object relational mapper (ORM), ```Postgres SQL``` as database.
+Backend is ```Node.js``` using ```Express``` as server side web framework, ```React.js``` view library for the views rendering, [Sequelize](http://docs.sequelizejs.com/) as Object relational mapper (ORM), ```Postgres SQL``` as database.
 
 
 ## Branches 
