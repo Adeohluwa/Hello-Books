@@ -2,8 +2,8 @@
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square)]()
 
 
-A simple MERN application for managing a physical books library written in ES 6 Javascript according AirBnB style guidelines enforced by ES Lint .
-Backend is ```Node.js``` using ```Express``` as server side web framework, ```React.js``` view library for the views rendering, ```Sequelize``` as Object relational mapper ORM, ```Postgres SQL``` as database.
+A simple MERN application for managing a physical books library written in ES 6 Javascript according [AirBnB style guidelines](https://github.com/airbnb/javascript) enforced by ES Lint .
+Backend is ```Node.js``` using ```Express``` as server side web framework, ```React.js``` view library for the views rendering, ```Sequelize``` as Object relational mapper (ORM), ```Postgres SQL``` as database.
 
 
 ## Branches 
@@ -16,7 +16,7 @@ Backend is ```Node.js``` using ```Express``` as server side web framework, ```Re
 
 ## Instructions
 
-- Install the latestr version Node.js 
+- Install the latest version Node.js 
 - Clone this Repository  
 ```git clone https://github.com/Adeohluwa/Hello-Books.git```
 - Run ```npm install``` to install the required dependencies
