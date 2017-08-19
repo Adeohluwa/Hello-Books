@@ -6,9 +6,11 @@ A simple MERN application for managing a physical books library written in ES 6 
 
 
 ## Branches 
-  express-setup
 
-  sequelize-config
+[express-setup](https://github.com/Adeohluwa/Hello-Books/tree/express-setup) -- initial express setup to serve our routes 
+
+[sequelize-config](https://github.com/Adeohluwa/Hello-Books/tree/sequelize-config) -- here I configure sequelize as the ORM that wraps around the Postgres DB
+  
 
 
 ## Instructions
