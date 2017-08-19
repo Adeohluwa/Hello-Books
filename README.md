@@ -8,7 +8,7 @@ Backend is ```Node.js``` using ```Express``` as server side web framework, ```Re
 
 ## Branches 
 
-[express-setup](https://github.com/Adeohluwa/Hello-Books/tree/express-setup) -- initial express setup to serve our routes 
+[express-setup](https://github.com/Adeohluwa/Hello-Books/tree/express-setup) -- initial express setup to start server
 
 [sequelize-config](https://github.com/Adeohluwa/Hello-Books/tree/sequelize-config) -- here I configure sequelize as the ORM that wraps around the Postgres DB
   
@@ -16,7 +16,7 @@ Backend is ```Node.js``` using ```Express``` as server side web framework, ```Re
 
 ## Instructions
 
-- Install the latest version Node.js 
+- Install the latest version of node.js 
 - Clone this Repository  
 ```git clone https://github.com/Adeohluwa/Hello-Books.git```
 - Run ```npm install``` to install the required dependencies
@@ -29,11 +29,11 @@ Backend is ```Node.js``` using ```Express``` as server side web framework, ```Re
 
  * Configure Sequelize as ORM
  * Install Postgresql as database
- * Setup Mocha and Chai for api tests 
+ * Setup Mocha and Chai for API tests 
  * Document API extensively using Swagger
  * Implement Front-end in React.JS
  * Design Front-End according to Material UI guidelines
- * Setup Travis CI, Hound, Coveralls, Code climate for C.I
+ * Setup Travis CI, Hound, Coveralls, Code climate for Continous Integration
  * Depoy to Heroku 
 
 
