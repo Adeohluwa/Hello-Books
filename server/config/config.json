@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "rabbi",
+    "password": "adeoluwa",
+    "database": "hellobooks",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "rabbi",
+    "password": "adeoluwa",
+    "database": "hellobooks",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "rabbi",
+    "password": "adeoluwa",
+    "database": "hellobooks",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
